@@ -1,2 +1,2 @@
-# Basis-data-2
+# Basis-Data-2
 Tugas 2
